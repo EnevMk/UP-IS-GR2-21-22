@@ -50,7 +50,7 @@ void special(int a, int b, int k) {
 int main() {
 
 
-    special(19, 32, 3);
+    special(19, 32, 1);
     //std::cout << primeDivisorsEqualToK(30, 3);
 
     return 0;
